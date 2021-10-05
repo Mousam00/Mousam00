@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mousam00
+- 👋 Hi, I’m @Mousam
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects
