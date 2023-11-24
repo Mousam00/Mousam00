@@ -1,10 +1,12 @@
 <h1>Mousam</h1>
+
 - 👋 Hi, I’m @Mousam
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects
 
 
+## 👨‍💻 Technologies
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 [![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
