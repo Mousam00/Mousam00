@@ -4,9 +4,6 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 ## 👨‍💻 Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
