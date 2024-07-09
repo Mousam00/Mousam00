@@ -1,6 +1,6 @@
 <h1>Vibhav Pandey</h1>
 
-- 👋 Hi, I’m @Mousam
+- 👋 Hi, I’m @Vibhav
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects
