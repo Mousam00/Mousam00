@@ -1,4 +1,4 @@
-<h1>Vibhav Pandey</h1>
+<h1>Vibhav Kumar Pandey</h1>
 
 - 👋 Hi, I’m @Vibhav
 - 👀 I’m interested in learning new things
